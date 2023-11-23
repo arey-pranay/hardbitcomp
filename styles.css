@@ -35,7 +35,7 @@ body {
   /* background: #999999d8; */
 }
 button {
-  pointer-events: all;
+  pointer-events: none;
 }
 a {
   pointer-events: all;
